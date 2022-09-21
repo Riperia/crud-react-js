@@ -1,0 +1,14 @@
+.app-info {
+    background: linear-gradient(3deg, rgb(239 215 0) 0%, rgb(13 108 183) 100%);
+    border-radius: 4px;
+    box-shadow: 15px 15px 30px rgb(147 136 41);
+    color: #fff;
+}
+.app-infoa{
+    padding:25px;
+}
+.ogo{
+background-color: #333333;
+width:100wv;
+height: 50px;
+}
