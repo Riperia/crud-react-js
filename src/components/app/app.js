@@ -86,6 +86,7 @@ class App extends Component {
   };
   render() {
     const { data, term, filter } = this.state;
+    const iflter = a;
     const rised = this.state.data.filter((elem) => elem.rise).length;
     const increased = this.state.data.filter((elem) => elem.increase).length;
     const visibleData = this.mosfilter(this.searchEmp(data, term), filter);
